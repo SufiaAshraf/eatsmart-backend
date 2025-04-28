@@ -65,7 +65,7 @@ src/main/resources/
 
 ## ⚙️ Technology Stack
 
-- Java 19
+- Java 17
 - Spring Boot 3
 - Maven
 - PostgreSQL (Supabase DB)
@@ -79,7 +79,7 @@ src/main/resources/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/sufia/eatsmart-backend.git
+   git clone https://github.com/SufiaAshraf/eatsmart-backend.git
    cd eatsmart-backend
    ```
 
